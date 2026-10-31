@@ -10,3 +10,6 @@ deepface
 ultralytics
 aiofiles
 pydantic
+resemblyzer
+scipy
+
